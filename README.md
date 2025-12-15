@@ -40,7 +40,7 @@ seijaku-pilates/
 ## Requirements
 
 - PHP 8.0 or higher
-- PostgreSQL database
+- MySQL database
 
 ## Setup
 
@@ -61,7 +61,7 @@ seijaku-pilates/
 ## Technology Stack
 
 - **Backend**: PHP 8.x
-- **Database**: PostgreSQL
+- **Database**: MySQL
 - **Frontend**: HTML5, CSS3, JavaScript (Vanilla)
 - **Styling**: Custom CSS with responsive design
 - **Icons**: Font Awesome 6.x
