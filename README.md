@@ -66,7 +66,3 @@ seijaku-pilates/
 - **Styling**: Custom CSS with responsive design
 - **Icons**: Font Awesome 6.x
 - **Fonts**: Google Fonts (Poppins)
-
-## Language
-
-The application interface is in English.
